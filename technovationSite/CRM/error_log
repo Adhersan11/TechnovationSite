@@ -1,0 +1,107 @@
+[15-Jan-2017 02:34:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kayrosst/public_html/consolidacion/procesar.php:2) in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 42
+[15-Jan-2017 02:34:50 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 43
+[15-Jan-2017 02:56:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kayrosst/public_html/consolidacion/procesar.php:2) in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 42
+[15-Jan-2017 02:56:49 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 43
+[15-Jan-2017 02:57:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kayrosst/public_html/consolidacion/procesar.php:2) in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 42
+[15-Jan-2017 02:57:33 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 43
+[15-Jan-2017 03:01:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kayrosst/public_html/consolidacion/procesar.php:2) in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 42
+[15-Jan-2017 03:01:40 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 43
+[15-Jan-2017 03:21:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kayrosst/public_html/consolidacion/procesar.php:2) in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 42
+[15-Jan-2017 03:21:17 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 43
+[15-Jan-2017 03:21:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kayrosst/public_html/consolidacion/procesar.php:2) in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 42
+[15-Jan-2017 03:21:45 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/kayrosst/public_html/consolidacion/includes/functions.php on line 43
+[15-Jan-2017 05:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/kayrosst/public_html/consolidacion/procesar.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/consolidacion/procesar.php on line 45
+[15-Jan-2017 05:29:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/kayrosst/public_html/consolidacion/procesar.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/consolidacion/procesar.php on line 45
+[15-Jan-2017 05:42:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/kayrosst/public_html/consolidacion/procesar.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/consolidacion/procesar.php on line 45
+[15-Jan-2017 06:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/kayrosst/public_html/consolidacion/procesar.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/consolidacion/procesar.php on line 45
+[15-Jan-2017 06:20:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'kayrosst_consolidacion'@'localhost' (using password: YES) in /home/kayrosst/public_html/consolidacion/procesar.php on line 52
+[15-Jan-2017 07:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_numrows() in /home/kayrosst/public_html/consolidacion/procesar.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/consolidacion/procesar.php on line 59
+[15-Jan-2017 07:32:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::numrows() in /home/kayrosst/public_html/consolidacion/procesar.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/consolidacion/procesar.php on line 59
+[15-Jan-2017 07:42:52 UTC] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home/kayrosst/public_html/consolidacion/procesar.php on line 47
+[15-Jan-2017 07:53:32 UTC] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home/kayrosst/public_html/consolidacion/procesar.php on line 47
+[15-Jan-2017 08:13:17 UTC] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home/kayrosst/public_html/consolidacion/procesar.php on line 47
+[15-Jan-2017 08:15:07 UTC] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home/kayrosst/public_html/consolidacion/procesar.php on line 47
+[15-Jan-2017 08:19:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::numrows() in /home/kayrosst/public_html/consolidacion/procesar.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/consolidacion/procesar.php on line 66
+[12-Mar-2017 20:59:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kayrosst/public_html/CRM/index.php:47) in /home/kayrosst/public_html/CRM/index.php on line 49
+[12-Mar-2017 20:59:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kayrosst/public_html/CRM/index.php:47) in /home/kayrosst/public_html/CRM/index.php on line 50
+[13-Mar-2017 05:17:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kayrosst/public_html/CRM/index.php:47) in /home/kayrosst/public_html/CRM/index.php on line 49
+[13-Mar-2017 05:17:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kayrosst/public_html/CRM/index.php:47) in /home/kayrosst/public_html/CRM/index.php on line 50
+[13-Mar-2017 05:39:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kayrosst/public_html/CRM/index.php:47) in /home/kayrosst/public_html/CRM/index.php on line 49
+[13-Mar-2017 05:39:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kayrosst/public_html/CRM/index.php:47) in /home/kayrosst/public_html/CRM/index.php on line 50
+[15-Mar-2017 04:35:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function createClient() in /home/kayrosst/public_html/CRM/procesar.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/CRM/procesar.php on line 41
+[15-Mar-2017 04:39:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 210
+[15-Mar-2017 04:40:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 210
+[15-Mar-2017 04:40:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 210
+[15-Mar-2017 04:40:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 210
+[15-Mar-2017 04:40:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 210
+[15-Mar-2017 04:40:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 210
+[15-Mar-2017 04:50:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 213
+[15-Mar-2017 04:50:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 213
+[15-Mar-2017 04:58:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 213
+[15-Mar-2017 05:01:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 213
+[15-Mar-2017 05:01:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 213
+[15-Mar-2017 05:05:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addObservationClient() in /home/kayrosst/public_html/CRM/procesar.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/CRM/procesar.php on line 46
+[17-Mar-2017 00:48:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[17-Mar-2017 00:49:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[17-Mar-2017 00:49:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[17-Mar-2017 00:50:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[17-Mar-2017 00:50:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[17-Mar-2017 00:50:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[17-Mar-2017 00:51:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[17-Mar-2017 01:39:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[20-Mar-2017 23:11:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kayrosst/public_html/CRM/includes/functions.php on line 254
+[20-Mar-2017 23:16:40 UTC] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/kayrosst/public_html/CRM/includes/functions.php on line 202
+[20-Mar-2017 23:57:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 221
+[21-Mar-2017 00:17:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 221
+[21-Mar-2017 00:17:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/kayrosst/public_html/CRM/includes/functions.php on line 221
+[21-Mar-2017 00:21:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addObservationClient() in /home/kayrosst/public_html/CRM/procesar.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/CRM/procesar.php on line 47
+[21-Mar-2017 00:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addObservationClient() in /home/kayrosst/public_html/CRM/procesar.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/CRM/procesar.php on line 47
+[21-Mar-2017 00:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addObservationClient() in /home/kayrosst/public_html/CRM/procesar.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/CRM/procesar.php on line 47
+[21-Mar-2017 00:28:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addObservationClient() in /home/kayrosst/public_html/CRM/procesar.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/CRM/procesar.php on line 47
+[21-Mar-2017 00:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addObservationClient() in /home/kayrosst/public_html/CRM/procesar.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/CRM/procesar.php on line 49
+[21-Mar-2017 00:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function addObservationClient() in /home/kayrosst/public_html/CRM/procesar.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kayrosst/public_html/CRM/procesar.php on line 50
